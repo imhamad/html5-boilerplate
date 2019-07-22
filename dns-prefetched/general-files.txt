@@ -1,1 +1,3 @@
 <meta name="apple-itunes-app" content="app-id=APP_ID,app-argument=SOME_TEXT">
+
+* Adding out all general file
