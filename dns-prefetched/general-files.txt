@@ -1,4 +1,8 @@
 <meta name="apple-itunes-app" content="app-id=APP_ID,app-argument=SOME_TEXT">
 
+<<<<<<< HEAD
 
 Rules for Fetching.
+=======
+* Adding out all general file
+>>>>>>> cc159a05774d2a60fbfac877d815f56e0e03e3e1
